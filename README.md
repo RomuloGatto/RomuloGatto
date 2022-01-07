@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 -->
+
+<a href="https://github.com/RomuloGatto/RomuloGatto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloGatto&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/RomuloGatto/RomuloGatto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RomuloGatto&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Romulo's GitHub Stats" />
+</a>
