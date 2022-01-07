@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 -->
+
+![version :07.01.2022](https://img.shields.io/badge/version-07.01.2022-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=RomuloGatto&color=red) &nbsp;
+[![GitHub RomuloGatto](https://img.shields.io/github/followers/RomuloGatto?label=follow&style=social)](https://github.com/RomuloGatto) &nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
