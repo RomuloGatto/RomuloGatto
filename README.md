@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Romulo Gatto and I'm a software engineer. I'm from Brazil, living through the world and currently working at Facily. 
-You can find me on [![LinkedIn][3.2]][3].
+My name is Romulo Gatto and I'm a software engineer. I'm from Brazil, living through the world and currently working at Facily[https://web.faci.ly/]. 
+<br>You can find me on [![LinkedIn][3.2]][3].
 
 <!--
 ## 🔧 Technologies & Tools
