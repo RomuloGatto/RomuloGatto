@@ -98,10 +98,10 @@ module.exports = {
   },
   recentworks: {
     styles: {
-      title_color: colors.primary.base,
+      title_color: colors.secondary.over,
       text_color: colors.secondary.over,
       bg_color: colors.secondary.base,
-      border_color: colors.black.base,
+      border_color: colors.secondary.base,
       icon_color: colors.secondary.over,
     },
   },
@@ -132,10 +132,10 @@ module.exports = {
     styles: {
       style: 'for-the-badge',
       align: 'center',
-      title_color: colors.primary.base,
+      title_color: colors.secondary.over,
       text_color: colors.secondary.over,
       bg_color: colors.secondary.base,
-      border_color: colors.black.base,
+      border_color: colors.secondary.base,
       show_icons: true,
       icon_color: colors.secondary.over,
       rank_icon: 'github',
