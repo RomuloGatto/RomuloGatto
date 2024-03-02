@@ -5,7 +5,8 @@ const { colors } = require('./theme');
 
 module.exports = {
   user: 'RomuloGatto',
-  startedProgramming: '01/02/2010',
+  startedCoding: '20/03/2010',
+  startedWorking: '01/02/2013',
   repoQuantity: 6,
   header: {
     styles: {

@@ -3,7 +3,7 @@
 ## **About me:**
 
 %{aboutme}
-* %{myexperience}
+%{myexperience}
 
 ## **Skills wall:**
 

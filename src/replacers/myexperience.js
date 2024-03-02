@@ -1,31 +1,47 @@
 module.exports = function (data) {
-  const started = data.startedProgramming.split('/').reverse();
-  const past = new Date(...started).getTime();
-  const now = new Date().getTime();
+  const startedWorking = data.startedWorking.split('/').reverse();
+  const pastWorking = new Date(...startedWorking).getTime();
 
+  const startedCoding = data.startedCoding.split('/').reverse();
+  const pastCoding = new Date(...startedCoding).getTime();
+  
+  const now = new Date().getTime();
+  const plural = (num, word) => `${num} ${word}${num === 1 ? '' : 's'}`;
+  
   const ms = {
     year: 31536000,
     month: 2628000,
     day: 86400,
   };
 
-  let time_elapsed = Math.floor((now - past) / 1000);
-  let years = {
-    quotient: Math.floor(time_elapsed / ms.year),
-    rest: time_elapsed % ms.year,
+  let timeElapsedCoding = Math.floor((now - pastCoding) / 1000);
+  let yearsCoding = {
+    quotient: Math.floor(timeElapsedCoding / ms.year),
+    rest: timeElapsedCoding % ms.year,
   };
-  let months = {
-    quotient: Math.floor(years.rest / ms.month),
-    rest: years.rest % ms.month,
+  let monthsCoding = {
+    quotient: Math.floor(yearsCoding.rest / ms.month),
+    rest: yearsCoding.rest % ms.month,
   };
-  let days = {
-    quotient: Math.floor(months.rest / ms.day),
+  let daysCoding = {
+    quotient: Math.floor(monthsCoding.rest / ms.day),
   };
 
-  const plural = (num, word) => `${num} ${word}${num === 1 ? '' : 's'}`;
+  let timeElapsedWorking = Math.floor((now - pastWorking) / 1000);
+  let yearsWorking = {
+    quotient: Math.floor(timeElapsedWorking / ms.year),
+    rest: timeElapsedWorking % ms.year,
+  };
+  let monthsWorking = {
+    quotient: Math.floor(yearsWorking.rest / ms.month),
+    rest: yearsWorking.rest % ms.month,
+  };
+  let daysWorking = {
+    quotient: Math.floor(monthsWorking.rest / ms.day),
+  };
 
-  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient, 'Month')} and ${plural(
-    days.quotient,
-    'Day',
-  )} since I started programming`;
+
+  const programing = `* ${plural(yearsCoding.quotient, 'Year')}, ${plural(monthsCoding.quotient, 'Month')} and ${plural(daysCoding.quotient, 'Day', )} since I started Coding`;
+  const working = `* ${plural(yearsWorking.quotient, 'Year')}, ${plural(monthsWorking.quotient, 'Month')} and ${plural(daysWorking.quotient, 'Day', )} since I started Working with code`;
+  return programing + '\n' + working
 };
