@@ -9,60 +9,60 @@
 * Rômulo Gatto, 29 years
 * Senior Software Engineer
 * Full Cycle Engineer
-* 15 Years, 5 Months and 26 Days since I started Coding
-* 12 Years, 7 Months and 15 Days since I started Working with code
+* 15 Years, 5 Months and 27 Days since I started Coding
+* 12 Years, 7 Months and 16 Days since I started Working with code
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/mysql-005b96?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-b3cee0?logo=adobe-photoshop&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/rio-b3cee0?logo=rio&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/asana-b3cee0?logo=asana&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/markdown-b3cee0?logo=markdown&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/git-005b96?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/golang-005b96?logo=golang&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-b6764d?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/mongodb-b3cee0?logo=mongodb&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/fastapi-005b96?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-005b96?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/restapi-005b96?logo=restapi&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/jest-b6764d?logo=jest&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react%20native-b6764d?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/flask-b6764d?logo=flask&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-b3cee0?logo=figma&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/graphql-005b96?logo=graphql&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/sqlite-005b96?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/illustrator-b6764d?logo=adobe-illustrator&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-b6764d?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/restapi-005b96?logo=restapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-005b96?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-005b96?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postman-b3cee0?logo=postman&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/graphene-b3cee0?logo=graphene&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/express.js-b3cee0?logo=express&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/shell%20script-b3cee0?logo=gnu-bash&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-b3cee0?logo=visual%20studio%20code&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/sql%20server-005b96?logo=sql%20server&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/aws-005b96?logo=aws&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/django-b6764d?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/gitlab-b6764d?logo=gitlab&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20actions-005b96?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/pydantic-b3cee0?logo=pydantic&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/python-005b96?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-005b96?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/pytest-b6764d?logo=pytest&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/swagger-b3cee0?logo=swagger&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/jenkins-b3cee0?logo=jenkins&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/gcp-b3cee0?logo=gcp&style=for-the-badge&logoColor=121111"/>
 <img src="https://img.shields.io/badge/delphi-b3cee0?logo=delphi&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/github-b3cee0?logo=github&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/hostinger-005b96?logo=hostinger&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/javascript-005b96?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jira-005b96?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/ruby-b6764d?logo=ruby&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-005b96?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/gorm-b3cee0?logo=gorm&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/sqlalchemy-b3cee0?logo=sqlalchemy&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/mongodb-b3cee0?logo=mongodb&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/shell%20script-b3cee0?logo=gnu-bash&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/python-005b96?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/django-b6764d?logo=django&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-b6764d?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/docker-005b96?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jest-b3cee0?logo=jest&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/jquery-b6764d?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/hostinger-005b96?logo=hostinger&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mysql-005b96?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-b3cee0?logo=github&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/jira-005b96?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/illustrator-b6764d?logo=adobe-illustrator&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/graphene-b6764d?logo=graphene&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/pytest-b6764d?logo=pytest&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/express.js-b6764d?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-b6764d?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-005b96?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/fastapi-005b96?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20actions-005b96?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/golang-005b96?logo=golang&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postman-b3cee0?logo=postman&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/asana-b3cee0?logo=asana&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/swagger-b6764d?logo=swagger&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-005b96?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/flask-b3cee0?logo=flask&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/jquery-b6764d?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/gitlab-b3cee0?logo=gitlab&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/sqlalchemy-b3cee0?logo=sqlalchemy&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/pydantic-b3cee0?logo=pydantic&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/sql%20server-005b96?logo=sql%20server&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/ruby-b3cee0?logo=ruby&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/rio-b3cee0?logo=rio&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/gcp-b6764d?logo=gcp&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/jenkins-b6764d?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-005b96?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-b3cee0?logo=adobe-photoshop&style=for-the-badge&logoColor=121111"/>
+<img src="https://img.shields.io/badge/markdown-b6764d?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-b6764d?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/aws-005b96?logo=aws&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/graphql-005b96?logo=graphql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-005b96?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
