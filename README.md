@@ -1,92 +1,84 @@
-<p align="center"><a href="https://twitter.com/devgatto"><img src="https://img.shields.io/badge/twitter-b3cee0?style=for-the-badge&logoColor=121111&logo=twitter"/></a>
-<a href="https://linkedin.com/in/romulogatto"><img src="https://img.shields.io/badge/linkedin-b3cee0?style=for-the-badge&logoColor=121111&logo=linkedin"/></a>
-<a href="https://romulogatto.github.io/"><img src="https://img.shields.io/badge/website-b3cee0?logo=esri&style=for-the-badge&logoColor=121111"/></a>
-<img src="https://komarev.com/ghpvc/?username=RomuloGatto&style=for-the-badge&color=b3cee0&logoColor=121111&logo=undefined"/></p>
-<p align="center">👋 Heyyy! I'm Gatto, a Brazilian software engineer.</p>
+<p align="center">
+  <img src="./assets/romulo-os.svg" alt="Romulo OS — dynamic GitHub activity dashboard" width="100%" />
+</p>
 
-## **About me:**
+```console
+romulo@miaulabs:~$ whoami
+Rômulo Gatto — Brazilian full-cycle engineer building useful software where product, ops, infra, and AI meet.
 
-* Rômulo Gatto, 29 years
-* Senior Software Engineer
-* Full Cycle Engineer
-* 13 Years, 10 Months and 17 Days since I started Coding
-* 11 Years, 0 Months and 5 Days since I started Working with code
+romulo@miaulabs:~$ mission
+Ship practical systems. Automate the boring parts. Keep the stack understandable enough to fix at 3AM.
+```
 
-## **Skills wall:**
+## ./current-focus
 
-<p align="left"><img src="https://img.shields.io/badge/github-b3cee0?logo=github&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/python-005b96?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-005b96?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20actions-005b96?logo=github%20actions&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jest-b3cee0?logo=jest&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/npm-b6764d?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-b6764d?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/ruby-b6764d?logo=ruby&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-b3cee0?logo=postgresql&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/postman-b6764d?logo=postman&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/golang-005b96?logo=golang&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/hostinger-005b96?logo=hostinger&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/pytest-b3cee0?logo=pytest&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/sqlalchemy-b3cee0?logo=sqlalchemy&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/react%20native-b6764d?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/gcp-b3cee0?logo=gcp&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/restapi-005b96?logo=restapi&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/illustrator-b6764d?logo=adobe-illustrator&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/graphql-005b96?logo=graphql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jenkins-b6764d?logo=jenkins&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-005b96?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-b6764d?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/shell%20script-b6764d?logo=gnu-bash&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/docker-005b96?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/rio-b3cee0?logo=rio&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/jira-005b96?logo=jira&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/django-b3cee0?logo=django&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/mongodb-b6764d?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sqlite-005b96?logo=sqlite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/graphene-b3cee0?logo=graphene&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/aws-005b96?logo=aws&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/jquery-b6764d?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/fastapi-005b96?logo=fastapi&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-b3cee0?logo=figma&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/javascript-005b96?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/express.js-b3cee0?logo=express&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/mysql-005b96?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/flask-b6764d?logo=flask&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/markdown-b6764d?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-005b96?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/delphi-b3cee0?logo=delphi&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/asana-b6764d?logo=asana&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/pydantic-b6764d?logo=pydantic&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sql%20server-005b96?logo=sql%20server&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-005b96?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/gitlab-b6764d?logo=gitlab&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/gorm-b3cee0?logo=gorm&style=for-the-badge&logoColor=121111"/>
-<img src="https://img.shields.io/badge/node.js-005b96?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/swagger-b6764d?logo=swagger&style=for-the-badge&logoColor=F2F2F2"/></p>
+```yaml
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-06-29T18:09:11.087Z
+working_on:
+  - Securo: privacy-first finance manager, 1153 stars
+  - OpenMontage: agentic video studio, 28k stars
+  - Stackdeck: local AWS console, 11 stars
 
-## **Recent projects:**
+operating_mode:
+  - read live signals from recent repos, pushes and pull requests
+  - ask a low-temperature free-tier LLM for a concise wrapup when available
+  - fall back to deterministic repo scoring when AI is unavailable
+  - rebuild this profile automatically through GitHub Actions
+```
 
-<a href="https://github.com/RomuloGatto/RomuloGatto_old"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=RomuloGatto_old&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/RomuloGatto/aircrawl_portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=aircrawl_portal&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/RomuloGatto/romulogatto.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=romulogatto.github.io&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/RomuloGatto/color-sorting-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=color-sorting-cli&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/RomuloGatto/challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=challenge&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/RomuloGatto/SityRoom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RomuloGatto&repo=SityRoom&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+## ./active-github
 
-## **You can find me on:**
+| repo | latest signal | why it shows up | stack |
+| --- | --- | --- | --- |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-06-25 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | opened PR in · 2026-06-21 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ ag… | Python · agent · agentic-ai |
+| [liammizrahi/stackdeck](https://github.com/liammizrahi/stackdeck) | starred · 2026-06-29 | A web-based AWS Console for your local cloud emulator. Manage resources across LocalStack,… | TypeScript |
 
-*Click to be redirected*
+## ./systems-i-like-building
 
-<p align="left"><a href="https://twitter.com/devgatto"><img src="https://img.shields.io/badge/twitter-b3cee0?style=for-the-badge&logoColor=121111&logo=twitter"/></a>
-<a href="https://linkedin.com/in/romulogatto"><img src="https://img.shields.io/badge/linkedin-b3cee0?style=for-the-badge&logoColor=121111&logo=linkedin"/></a>
-<a href="mailto:romulo.gatto@gmail.com"><img src="https://img.shields.io/badge/email-b3cee0?logo=gmail&style=for-the-badge&logoColor=121111"/></a></p>
+| system | what I care about |
+| --- | --- |
+| Product automation | turning messy manual workflows into tools that people actually use |
+| AI agents | practical copilots, sidecars, pipelines and decision loops — not demos for demo's sake |
+| Video/content engines | generative media workflows, captions, social-first outputs and repeatable production systems |
+| Backend platforms | APIs, queues, databases, integrations, billing-ish glue and operational surfaces |
+| Homelab / infra | Docker, Linux, networking, monitoring, backups and self-hosted services that stay up |
 
-## **Follower of the day**
+## ./toolbox
 
-*Showcases a random GitHub follower here everyday*
+```txt
+languages       python · typescript/javascript · go · shell
+backend         fastapi · node · postgres · sqlite · redis-ish queues · rest/graphql
+frontend        react · next-ish stacks · dashboards · internal tools
+infra           docker · github actions · linux · reverse proxies · dns · observability
+ai/media        agents · workflow orchestration · video generation · automation glue
+product         scoping · shipping · ops thinking · making weird ideas usable
+```
 
-<a href="https://github.com/thematheusgomes" alt="Matheus Gomes"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+## ./selected-links
 
-<hr>
+```console
+$ open linkedin
+https://linkedin.com/in/romulogatto
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=RomuloGatto&style=for-the-badge&title_color=F2F2F2&text_color=F2F2F2&bg_color=b6764d&border_color=b6764d&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
+$ open github
+https://github.com/RomuloGatto
+
+$ mail --compose
+mailto:romulo.gatto@gmail.com
+```
+
+## ./status
+
+```txt
+availability: building, experimenting, automating
+location:     Brazil
+bias:         small teams, fast loops, real users, working software
+```
+
+---
+
+<p align="center">
+  <samp>ROMULO OS · synced from GitHub · build &gt; automate &gt; repeat</samp>
+</p>

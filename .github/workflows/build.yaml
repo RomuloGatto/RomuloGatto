@@ -25,6 +25,13 @@ jobs:
       - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: if no AI key/provider works, the generator falls back to deterministic GitHub activity scoring.
+          # GitHub Models can use GITHUB_TOKEN. For Groq/OpenRouter, add the corresponding repository secret.
+          ROMULO_OS_AI_PROVIDER: ${{ vars.ROMULO_OS_AI_PROVIDER }}
+          ROMULO_OS_AI_MODEL: ${{ vars.ROMULO_OS_AI_MODEL }}
+          ROMULO_OS_AI_TEMPERATURE: '0.2'
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: node src/index.js
 
       - name: Commit and push if changed
