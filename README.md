@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-06-29T18:09:11.087Z
+generated_at: 2026-06-29T18:16:23.697Z
 working_on:
-  - Securo: privacy-first finance manager, 1153 stars
-  - OpenMontage: agentic video studio, 28k stars
-  - Stackdeck: local AWS console, 11 stars
+  - Building privacy‑first finance manager (securo)
+  - Pushing agentic AI video studio (OpenMontage)
+  - Maintaining local AWS console emulator (stackdeck)
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
