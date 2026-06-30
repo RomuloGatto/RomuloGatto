@@ -51,11 +51,11 @@
   <g class="mono">
     <text x="108" y="156" class="green" font-size="22">$ ./romulo-os --status</text>
     <text x="108" y="214" class="white" font-size="58" font-weight="800">ROMULO OS</text>
-    <text x="108" y="250" class="muted" font-size="20">Open-source dev, AI video, finance, cloud t…</text>
+    <text x="108" y="250" class="muted" font-size="20">github activity powered profile</text>
 
     <text x="108" y="305" class="cyan" font-size="20">system.identity</text>
     <text x="108" y="337" class="white" font-size="23">Rômulo Gatto — Brazil</text>
-    <text x="108" y="369" class="muted" font-size="18">groq wrapup + GitHub signals → live README</text>
+    <text x="108" y="369" class="muted" font-size="18">recent public GitHub signals → live README</text>
 
     <text x="108" y="418" class="cyan" font-size="20">runtime.profile</text>
     <text x="108" y="450" class="white" font-size="20">github-signals.service</text>
@@ -80,6 +80,6 @@
 
   <g transform="translate(660 512)" class="mono">
     <text x="0" y="0" class="muted" font-size="18">synced</text>
-    <text x="78" y="0" class="pink" font-size="18">2026-06-29 · auto-rendered</text>
+    <text x="78" y="0" class="pink" font-size="18">2026-06-30 · auto-rendered</text>
   </g>
 </svg>

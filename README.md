@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-06-29T18:16:23.697Z
+source: github_public_activity
+generated_at: 2026-06-30T03:56:56.686Z
 working_on:
-  - Building privacy‑first finance manager (securo)
-  - Pushing agentic AI video studio (OpenMontage)
-  - Maintaining local AWS console emulator (stackdeck)
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - callytics: recent GitHub activity
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
+| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | issuecomment · 2026-06-29 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-06-25 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | opened PR in · 2026-06-21 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ ag… | Python · agent · agentic-ai |
-| [liammizrahi/stackdeck](https://github.com/liammizrahi/stackdeck) | starred · 2026-06-29 | A web-based AWS Console for your local cloud emulator. Manage resources across LocalStack,… | TypeScript |
+| [rayanweragala/callytics](https://github.com/rayanweragala/callytics) | starred · 2026-06-30 | recent GitHub activity | TypeScript · asterisk-pbx · pjsip |
 
 ## ./systems-i-like-building
 
