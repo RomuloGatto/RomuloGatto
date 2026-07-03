@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-07-02T03:52:44.411Z
+generated_at: 2026-07-03T03:34:44.558Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
@@ -31,8 +31,8 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-01 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | issuecomment · 2026-06-29 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-07-02 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-07-02 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 | [rayanweragala/callytics](https://github.com/rayanweragala/callytics) | starred · 2026-06-30 | recent GitHub activity | TypeScript · asterisk-pbx · pjsip |
 
 ## ./systems-i-like-building
