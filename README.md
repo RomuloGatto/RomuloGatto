@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-07-05T03:44:45.901Z
+generated_at: 2026-07-06T03:52:59.837Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
