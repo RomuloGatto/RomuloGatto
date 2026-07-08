@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-07T03:42:33.697Z
+generated_at: 2026-07-08T02:56:59.031Z
 working_on:
-  - - Building privacy‑first finance manager (securo)
-  - - Enhancing log/metric ingestion in monoscope
-  - - Starred Huly PM platform (hcengineering)
+  - Securo: reviewing PRs on personal finance manager
+  - Monoscope: merging log ingestion PRs
+  - Platform: watching Huly PM platform
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,7 +31,7 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-06 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | pullrequestreview · 2026-07-07 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-07-02 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 | [hcengineering/platform](https://github.com/hcengineering/platform) | starred · 2026-07-07 | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion,… | TypeScript · applicant-tracking-system · chat-application |
 
