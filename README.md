@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-08T02:56:59.031Z
+source: github_public_activity
+generated_at: 2026-07-09T03:36:00.572Z
 working_on:
-  - Securo: reviewing PRs on personal finance manager
-  - Monoscope: merging log ingestion PRs
-  - Platform: watching Huly PM platform
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira,…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
