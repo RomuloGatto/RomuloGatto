@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-07-09T03:36:00.572Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-07-10T03:37:38.570Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
-  - platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira,…
+  - Building privacy‑first finance manager in Python
+  - Engineering natural‑lang log queries in Haskell
+  - Pushing AI‑driven video pipelines in mixed tech
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | pullrequestreview · 2026-07-07 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-07-09 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-07-02 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
-| [hcengineering/platform](https://github.com/hcengineering/platform) | starred · 2026-07-07 | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion,… | TypeScript · applicant-tracking-system · chat-application |
+| [RomuloGatto/OpenMontage](https://github.com/RomuloGatto/OpenMontage) | pushed to · 2026-06-21 | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ ag… | mixed |
 
 ## ./systems-i-like-building
 
