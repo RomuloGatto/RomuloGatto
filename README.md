@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-07-12T03:17:00.237Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-07-13T03:20:01.196Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
-  - RomuloGatto/OpenMontage contribution: World's first open-source, agentic video production system. 12 pipeline…
+  - Maintaining securo: Python finance manager, 1184 stars
+  - Building monoscope: Haskell logs & metrics, 1351 stars
+  - Pushing OpenMontage: agentic video prod, 0 stars
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
