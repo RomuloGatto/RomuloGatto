@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-07-14T02:44:23.564Z
+generated_at: 2026-07-15T02:42:48.591Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attached object images into code-only, animati…
