@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-16T02:49:26.424Z
+source: github_public_activity
+generated_at: 2026-07-17T02:51:51.679Z
 working_on:
-  - Building privacy‑first finance manager (securo) with Python.
-  - Enhancing log/metrics ingestion & LLM queries (monoscope) in Haskell.
-  - Turning object images into procedural Three.js models (codex plugin).
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attached object images into code-only, animati…
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,7 +31,7 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | merged PR in · 2026-07-13 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-17 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | starred · 2026-07-13 | Codex plugin that turns attached object images into code-only, animation-ready procedural T… | Python |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-07-02 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
