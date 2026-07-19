@@ -13,12 +13,13 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-07-18T02:44:13.544Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-07-19T03:14:39.988Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attached object images into code-only, animati…
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - - Securo: privacy‑first finance manager, Python
+  - - Three.js Codex plugin: image → procedural models
+  - - Monoscope: ingest logs, metrics, query via LLMs
+  - - Active PRs, stars, merges across repos
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
