@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-21T02:54:36.483Z
+generated_at: 2026-07-22T02:52:25.223Z
 working_on:
-  - Maintaining securo: Python finance manager
-  - Contributing to monoscope: Haskell logs & metrics
-  - Starred Three.js codex plugin for procedural models
+  - Securo: Python finance manager, 1207 stars
+  - Monoscope: Haskell logs & metrics, 1423 stars
+  - Three.js Codex: Python plugin, 1391 stars
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
