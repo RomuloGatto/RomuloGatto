@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-07-23T03:13:57.772Z
+generated_at: 2026-07-24T02:53:03.176Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
   - Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attached object images into code-only, animati…
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -32,8 +32,8 @@ operating_mode:
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-17 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | issuecomment · 2026-07-23 | World's first open-source, agentic video production system. 12 production pipelines, 100+ t… | Python · agent · agentic-ai |
 | [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | starred · 2026-07-13 | Codex plugin that turns attached object images into code-only, animation-ready procedural T… | Python |
-| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-07-02 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
 ## ./systems-i-like-building
 
