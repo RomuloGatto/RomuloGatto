@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-07-24T02:53:03.176Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-07-25T02:52:29.852Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
-  - Three.js-Object-Sculptor-Codex-Plugin: Codex plugin that turns attached object images into code-only, animati…
+  - Building privacy‑first finance manager (securo)
+  - Automating AI‑driven video pipelines (OpenMontage)
+  - Enhancing AI job‑search CLI (career‑ops)
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,7 +33,7 @@ operating_mode:
 | --- | --- | --- | --- |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-17 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | issuecomment · 2026-07-23 | World's first open-source, agentic video production system. 12 production pipelines, 100+ t… | Python · agent · agentic-ai |
-| [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | starred · 2026-07-13 | Codex plugin that turns attached object images into code-only, animation-ready procedural T… | Python |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | starred · 2026-07-24 | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric… | JavaScript · ai · ai-agent |
 
 ## ./systems-i-like-building
 
