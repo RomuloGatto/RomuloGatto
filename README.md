@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-25T02:52:29.852Z
+generated_at: 2026-07-26T03:18:09.811Z
 working_on:
-  - Building privacy‑first finance manager (securo)
-  - Automating AI‑driven video pipelines (OpenMontage)
-  - Enhancing AI job‑search CLI (career‑ops)
+  - Python finance manager, privacy-first
+  - Agentic AI video studio, 700+ tools
+  - CLI AI job search, score listings 1-5
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
