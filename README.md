@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-26T03:18:09.811Z
+source: github_public_activity
+generated_at: 2026-07-27T03:28:08.588Z
 working_on:
-  - Python finance manager, privacy-first
-  - Agentic AI video studio, 700+ tools
-  - CLI AI job search, score listings 1-5
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
+  - career-ops: Open-source AI job search: scan job portals, evaluate listings with a struc…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
