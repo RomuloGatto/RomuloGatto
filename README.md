@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-07-28T02:44:57.561Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-07-29T02:52:03.658Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
-  - taste-skill: Taste-Skill - gives your AI good taste. stops the AI from generating boring…
+  - Pushing updates to securo repo
+  - Merging PRs for finance manager
+  - Commenting on OpenMontage pipeline
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
