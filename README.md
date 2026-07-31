@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-07-30T02:36:51.506Z
+source: github_public_activity
+generated_at: 2026-07-31T03:18:14.235Z
 working_on:
-  - Pushing hotfixes to securo finance manager (Python)
-  - Opened PR to securo-finance/securo for new expense feature
-  - Commented on OpenMontage agentic video pipeline
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
+  - OpenLogi: ⚡️A native, local-first alternative to Logitech Options+, written in Rust �…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | opened PR in · 2026-07-17 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | merged PR in · 2026-07-30 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | issuecomment · 2026-07-23 | World's first open-source, agentic video production system. 12 production pipelines, 100+ t… | Python · agent · agentic-ai |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | starred · 2026-07-28 | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | JavaScript · agent · ai |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | starred · 2026-07-30 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap button… | Rust · dpi · gpui |
 
 ## ./systems-i-like-building
 
