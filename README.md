@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-01T03:16:26.317Z
+generated_at: 2026-08-02T03:16:42.965Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - OpenMontage: World's first open-source, agentic video production system. 12 production p…
