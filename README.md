@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-03T03:18:33.056Z
+generated_at: 2026-08-04T02:47:49.145Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - OpenMontage: World's first open-source, agentic video production system. 12 production p…
@@ -31,7 +31,7 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | merged PR in · 2026-07-30 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-03 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | issuecomment · 2026-07-23 | World's first open-source, agentic video production system. 12 production pipelines, 100+ t… | Python · agent · agentic-ai |
 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | starred · 2026-07-30 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap button… | Rust · dpi · gpui |
 
