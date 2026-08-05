@@ -14,11 +14,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-04T02:47:49.145Z
+generated_at: 2026-08-05T02:45:06.618Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - OpenMontage: World's first open-source, agentic video production system. 12 production p…
-  - OpenLogi: ⚡️A native, local-first alternative to Logitech Options+, written in Rust �…
+  - ai-video-generator-claude: 10 Claude skills that generate studio-quality AI video prompts for Seedance…
+  - ku: A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects,…
+  - Easel: Easel is a Codex and Claude macOS workspace for AI-assisted product design…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -32,8 +33,9 @@ operating_mode:
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-03 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | issuecomment · 2026-07-23 | World's first open-source, agentic video production system. 12 production pipelines, 100+ t… | Python · agent · agentic-ai |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | starred · 2026-07-30 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap button… | Rust · dpi · gpui |
+| [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) | starred · 2026-08-04 | 10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfie… | Python · ai-content · ai-video |
+| [bjarneo/ku](https://github.com/bjarneo/ku) | starred · 2026-08-04 | A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and… | Go · bubbletea · charmlibs |
+| [jamesrochabrun/Easel](https://github.com/jamesrochabrun/Easel) | starred · 2026-08-04 | Easel is a Codex and Claude macOS workspace for AI-assisted product design and frontend ite… | Swift |
 
 ## ./systems-i-like-building
 
