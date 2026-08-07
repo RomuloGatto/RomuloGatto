@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-06T02:47:58.402Z
+generated_at: 2026-08-07T02:47:20.531Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - ai-video-generator-claude: 10 Claude skills that generate studio-quality AI video prompts for Seedance…
