@@ -14,12 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-08T01:49:13.912Z
+generated_at: 2026-08-09T01:56:34.507Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - ai-video-generator-claude: 10 Claude skills that generate studio-quality AI video prompts for Seedance…
-  - ku: A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects,…
-  - Easel: Easel is a Codex and Claude macOS workspace for AI-assisted product design…
+  - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
+  - RomuloGatto/securo contribution: Open-source personal finance manager. Self-hosted, privacy-first.
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -32,10 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) | starred · 2026-08-04 | 10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfie… | Python · ai-content · ai-video |
-| [bjarneo/ku](https://github.com/bjarneo/ku) | starred · 2026-08-04 | A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and… | Go · bubbletea · charmlibs |
-| [jamesrochabrun/Easel](https://github.com/jamesrochabrun/Easel) | starred · 2026-08-04 | Easel is a Codex and Claude macOS workspace for AI-assisted product design and frontend ite… | Swift |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | forked · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript · nextjs · open-source |
+| [RomuloGatto/securo](https://github.com/RomuloGatto/securo) | pushed to · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python |
+| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | opened PR in · 2026-08-09 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
 ## ./systems-i-like-building
 
