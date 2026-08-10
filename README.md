@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-09T01:56:34.507Z
+generated_at: 2026-08-10T02:01:19.509Z
 working_on:
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
   - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
   - RomuloGatto/securo contribution: Open-source personal finance manager. Self-hosted, privacy-first.
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
+| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | opened issue in · 2026-08-09 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | forked · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript · nextjs · open-source |
 | [RomuloGatto/securo](https://github.com/RomuloGatto/securo) | pushed to · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python |
-| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | opened PR in · 2026-08-09 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
 ## ./systems-i-like-building
 
