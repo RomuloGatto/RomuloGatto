@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-08-15T01:22:36.590Z
+source: github_public_activity
+generated_at: 2026-08-16T01:31:46.859Z
 working_on:
-  - Pushing Haskell logs engine to monoscope fork
-  - Tuning LLM query interface for natural language logs
-  - Forking postiz-app to build agentic social scheduler
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
+  - RomuloGatto/securo contribution: Open-source personal finance manager. Self-hosted, privacy-first.
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
