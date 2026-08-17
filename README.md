@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-08-16T01:31:46.859Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-08-17T01:24:44.478Z
 working_on:
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
-  - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
-  - RomuloGatto/securo contribution: Open-source personal finance manager. Self-hosted, privacy-first.
+  - Monoscope fork: Haskell logs & LLM queries
+  - Postiz-app fork: TS social media scheduler
+  - Securo: Python finance manager
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
