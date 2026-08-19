@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-18T01:21:42.075Z
+generated_at: 2026-08-19T01:23:15.412Z
 working_on:
   - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
   - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
