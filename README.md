@@ -13,12 +13,13 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-08-21T01:26:33.584Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-08-22T01:21:55.567Z
 working_on:
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
-  - postiz-app: 📨 The ultimate agentic social media scheduling tool 🤖
-  - RomuloGatto/securo contribution: Open-source personal finance manager. Self-hosted, privacy-first.
+  - Pushing Haskell logs engine to S3 buckets
+  - Opened issues & PRs on monoscope
+  - Forked postiz-app for social media scheduling
+  - Commented on securo finance issue
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,7 +34,7 @@ operating_mode:
 | --- | --- | --- | --- |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-08-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | forked · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript · nextjs · open-source |
-| [RomuloGatto/securo](https://github.com/RomuloGatto/securo) | pushed to · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 
 ## ./systems-i-like-building
 
