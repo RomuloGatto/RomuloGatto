@@ -14,12 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-08-22T01:21:55.567Z
+generated_at: 2026-08-23T01:35:22.840Z
 working_on:
-  - Pushing Haskell logs engine to S3 buckets
-  - Opened issues & PRs on monoscope
-  - Forked postiz-app for social media scheduling
-  - Commented on securo finance issue
+  - monoscope: ingest logs, traces, metrics via LLM queries.
+  - securo: privacy‑first finance manager, self‑hosted.
+  - postiz-app: agentic social media scheduler in TS.
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,8 +32,8 @@ operating_mode:
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-08-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | forked · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript · nextjs · open-source |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [RomuloGatto/postiz-app](https://github.com/RomuloGatto/postiz-app) | pushed to · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript |
 
 ## ./systems-i-like-building
 
