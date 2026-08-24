@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-08-23T01:35:22.840Z
+source: github_public_activity
+generated_at: 2026-08-24T01:26:48.980Z
 working_on:
-  - monoscope: ingest logs, traces, metrics via LLM queries.
-  - securo: privacy‑first finance manager, self‑hosted.
-  - postiz-app: agentic social media scheduler in TS.
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - RomuloGatto/postiz-app contribution: 📨 The ultimate agentic social media scheduling tool 🤖
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
