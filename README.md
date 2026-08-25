@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-24T01:26:48.980Z
+generated_at: 2026-08-25T01:23:27.135Z
 working_on:
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - deskflow: Share a single keyboard and mouse between multiple computers.
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - RomuloGatto/postiz-app contribution: 📨 The ultimate agentic social media scheduling tool 🤖
+  - RomuloGatto/monoscope contribution: Monoscope lets you ingest and explore your logs, traces and metrics. We s…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-08-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-08-05 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [RomuloGatto/postiz-app](https://github.com/RomuloGatto/postiz-app) | pushed to · 2026-08-08 | 📨 The ultimate agentic social media scheduling tool 🤖 | TypeScript |
+| [deskflow/deskflow](https://github.com/deskflow/deskflow) | issuecomment · 2026-08-24 | Share a single keyboard and mouse between multiple computers. | C++ · keyboard · keyboard-emulation |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | merged PR in · 2026-08-24 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [RomuloGatto/monoscope](https://github.com/RomuloGatto/monoscope) | pushed to · 2026-08-13 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | mixed |
 
 ## ./systems-i-like-building
 
