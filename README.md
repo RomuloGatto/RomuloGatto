@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-08-26T01:27:06.318Z
+source: github_public_activity
+generated_at: 2026-08-27T08:18:17.941Z
 working_on:
-  - Deskflow: shared keyboard/mouse across PCs (C++)
-  - Securo: privacy‑first finance manager (Python)
-  - Monoscope: ingest logs to S3, LLM queries (mixed)
+  - deskflow: Share a single keyboard and mouse between multiple computers.
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - RomuloGatto/monoscope contribution: Monoscope lets you ingest and explore your logs, traces and metrics. We s…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
