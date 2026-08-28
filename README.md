@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-27T08:18:17.941Z
+generated_at: 2026-08-28T10:19:42.602Z
 working_on:
   - deskflow: Share a single keyboard and mouse between multiple computers.
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
