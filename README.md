@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-08-28T10:19:42.602Z
+generated_at: 2026-08-29T06:19:13.405Z
 working_on:
   - deskflow: Share a single keyboard and mouse between multiple computers.
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - RomuloGatto/monoscope contribution: Monoscope lets you ingest and explore your logs, traces and metrics. We s…
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,7 +33,7 @@ operating_mode:
 | --- | --- | --- | --- |
 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | issuecomment · 2026-08-24 | Share a single keyboard and mouse between multiple computers. | C++ · keyboard · keyboard-emulation |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | merged PR in · 2026-08-24 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [RomuloGatto/monoscope](https://github.com/RomuloGatto/monoscope) | pushed to · 2026-08-13 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | mixed |
+| [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | merged PR in · 2026-08-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
 ## ./systems-i-like-building
 
