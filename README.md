@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-09-06T03:39:54.729Z
+generated_at: 2026-09-07T03:39:23.019Z
 working_on:
-  - Enhancing deskflow's cross‑machine input sync
-  - Refining securo's privacy‑first expense tracker
-  - Optimizing monoscope's LLM‑driven log queries
+  - Deskflow: sync keyboard/mouse across machines
+  - Securo: privacy‑first finance tracker, Python backend
+  - Monoscope: natural‑lang log/metric queries via LLM
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
