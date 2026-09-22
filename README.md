@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-09-21T04:03:25.196Z
+generated_at: 2026-09-22T04:00:33.888Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - go2rtc: Ultimate camera streaming application
