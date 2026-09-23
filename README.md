@@ -14,10 +14,10 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-09-22T04:00:33.888Z
+generated_at: 2026-09-23T03:57:51.884Z
 working_on:
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - go2rtc: Ultimate camera streaming application
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - deskflow: Share a single keyboard and mouse between multiple computers.
 
 operating_mode:
@@ -31,8 +31,8 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-09-16 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-09-16 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | issuecomment · 2026-08-24 | Share a single keyboard and mouse between multiple computers. | C++ · keyboard · keyboard-emulation |
 
 ## ./systems-i-like-building
