@@ -14,11 +14,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-09-23T03:57:51.884Z
+generated_at: 2026-09-24T03:51:32.859Z
 working_on:
   - go2rtc: Ultimate camera streaming application
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - deskflow: Share a single keyboard and mouse between multiple computers.
+  - whiskerlink: Tailcat GUI for easy file & service sharing
+  - reel-maker: recent GitHub activity
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,7 +34,8 @@ operating_mode:
 | --- | --- | --- | --- |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-09-16 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [deskflow/deskflow](https://github.com/deskflow/deskflow) | issuecomment · 2026-08-24 | Share a single keyboard and mouse between multiple computers. | C++ · keyboard · keyboard-emulation |
+| [DavidCarliez/whiskerlink](https://github.com/DavidCarliez/whiskerlink) | starred · 2026-09-11 | Tailcat GUI for easy file & service sharing | Go · file-transfer · golang |
+| [emillycunha/reel-maker](https://github.com/emillycunha/reel-maker) | starred · 2026-09-09 | recent GitHub activity | TypeScript |
 
 ## ./systems-i-like-building
 
