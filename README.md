@@ -14,12 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-09-24T03:51:32.859Z
+generated_at: 2026-09-25T04:06:34.058Z
 working_on:
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
   - go2rtc: Ultimate camera streaming application
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - whiskerlink: Tailcat GUI for easy file & service sharing
-  - reel-maker: recent GitHub activity
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -32,10 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
+| [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | pushed to · 2026-09-25 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-09-16 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
-| [DavidCarliez/whiskerlink](https://github.com/DavidCarliez/whiskerlink) | starred · 2026-09-11 | Tailcat GUI for easy file & service sharing | Go · file-transfer · golang |
-| [emillycunha/reel-maker](https://github.com/emillycunha/reel-maker) | starred · 2026-09-09 | recent GitHub activity | TypeScript |
 
 ## ./systems-i-like-building
 
