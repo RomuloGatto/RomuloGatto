@@ -13,13 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-09-27T04:26:46.147Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-09-28T04:27:41.574Z
 working_on:
-  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
-  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
-  - go2rtc: Ultimate camera streaming application
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - Pushing fixes to UptimeFlare serverless monitor
+  - PRing ESP32 VPN client to microlink repo
+  - Engaging with go2rtc community via issue comments
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,9 +32,8 @@ operating_mode:
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
 | [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | forked · 2026-09-27 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
-| [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | pushed to · 2026-09-25 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
+| [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | opened PR in · 2026-09-25 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-09-16 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 
 ## ./systems-i-like-building
 
