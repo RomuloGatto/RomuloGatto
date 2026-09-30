@@ -13,13 +13,13 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-09-29T04:57:03.605Z
+source: github_public_activity
+generated_at: 2026-09-30T04:43:37.811Z
 working_on:
-  - UptimeFlare: serverless uptime monitor on Cloudflare Workers.
-  - bark-worker: lightweight GitHub Actions worker in JS.
-  - microlink: ESP32 VPN client, WireGuard, DERP, STUN.
-  - securo: self-hosted, privacy-first personal finance manager.
+  - RomuloGatto/UptimeFlare contribution: ✔ Free and serverless uptime monitoring / status page on Cloudflare Wor…
+  - bark-worker: recent GitHub activity
+  - go2rtc: Ultimate camera streaming application
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
