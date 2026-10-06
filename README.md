@@ -14,10 +14,10 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-10-05T04:46:33.845Z
+generated_at: 2026-10-06T05:33:20.896Z
 working_on:
-  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
   - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
   - go2rtc: Ultimate camera streaming application
 
 operating_mode:
@@ -31,8 +31,8 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | pushed to · 2026-09-30 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
-| [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | forked · 2026-09-27 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
+| [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened PR in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
+| [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | closed PR in · 2026-09-30 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
 
 ## ./systems-i-like-building
