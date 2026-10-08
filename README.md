@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-07T05:03:16.881Z
+generated_at: 2026-10-08T05:13:41.179Z
 working_on:
-  - Building Cloudflare Workers uptime monitor (UptimeFlare)
-  - Optimizing ESP32 VPN client (microlink)
-  - Enhancing camera streaming stack (go2rtc)
+  - UptimeFlare: serverless Cloudflare Workers uptime monitor
+  - microlink: ESP32 VPN client, WireGuard, DERP, STUN
+  - go2rtc: Go-based camera streaming, RTSP, WebRTC, HLS
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
