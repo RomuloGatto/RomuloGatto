@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-08T05:13:41.179Z
+source: github_public_activity
+generated_at: 2026-10-09T05:16:45.349Z
 working_on:
-  - UptimeFlare: serverless Cloudflare Workers uptime monitor
-  - microlink: ESP32 VPN client, WireGuard, DERP, STUN
-  - go2rtc: Go-based camera streaming, RTSP, WebRTC, HLS
+  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
+  - go2rtc: Ultimate camera streaming application
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
