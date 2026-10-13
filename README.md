@@ -13,12 +13,13 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-12T05:05:06.146Z
+source: github_public_activity
+generated_at: 2026-10-13T06:04:37.395Z
 working_on:
-  - Pushing fixes to UptimeFlare (serverless status page)
-  - Closed microlink PR, refining ESP32 VPN client
-  - Opened go2rtc PR, adding streaming feature
+  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
+  - go2rtc: Ultimate camera streaming application
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
