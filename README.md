@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-21T03:53:12.606Z
+source: github_public_activity
+generated_at: 2026-10-22T03:53:03.438Z
 working_on:
-  - Merging UptimeFlare PRs for Cloudflare Workers uptime checks
-  - Optimizing microlink ESP32 VPN client, closing PRs
-  - Engaging with go2rtc community, commenting on streaming issues
+  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
+  - linkedin-skills: Claude skills for LinkedIn. 12 Claude Code and Codex skills that write huma…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -33,7 +33,7 @@ operating_mode:
 | --- | --- | --- | --- |
 | [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened PR in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
 | [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | closed PR in · 2026-09-30 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
-| [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | issuecomment · 2026-09-20 | Ultimate camera streaming application | Go · ffmpeg · go |
+| [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | starred · 2026-10-13 | Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding Linke… | Python · agent-skill · agent-skills |
 
 ## ./systems-i-like-building
 
