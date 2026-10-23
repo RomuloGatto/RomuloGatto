@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-10-22T03:53:03.438Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-10-23T03:57:03.814Z
 working_on:
-  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
-  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
-  - linkedin-skills: Claude skills for LinkedIn. 12 Claude Code and Codex skills that write huma…
+  - UptimeFlare: Cloudflare Workers status page
+  - microlink: ESP32 WireGuard VPN client
+  - linkedin-skills: Claude AI content engine
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
