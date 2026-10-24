@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-23T03:57:03.814Z
+generated_at: 2026-10-24T03:51:34.864Z
 working_on:
-  - UptimeFlare: Cloudflare Workers status page
-  - microlink: ESP32 WireGuard VPN client
-  - linkedin-skills: Claude AI content engine
+  - Optimizing Cloudflare Workers uptime checks
+  - Building ESP32 WireGuard VPN client
+  - Engineering Claude AI LinkedIn skillset
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
