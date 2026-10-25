@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-10-24T03:51:34.864Z
+source: github_public_activity
+generated_at: 2026-10-25T03:50:42.918Z
 working_on:
-  - Optimizing Cloudflare Workers uptime checks
-  - Building ESP32 WireGuard VPN client
-  - Engineering Claude AI LinkedIn skillset
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
+  - RomuloGatto/microlink contribution: Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support w…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -31,9 +31,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | pullrequestreview · 2026-10-24 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened PR in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
 | [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | closed PR in · 2026-09-30 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
-| [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | starred · 2026-10-13 | Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding Linke… | Python · agent-skill · agent-skills |
 
 ## ./systems-i-like-building
 
