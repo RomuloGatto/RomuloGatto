@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-10-25T03:50:42.918Z
+generated_at: 2026-10-26T03:54:28.541Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
@@ -31,7 +31,7 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | pullrequestreview · 2026-10-24 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-10-25 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened PR in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
 | [RomuloGatto/microlink](https://github.com/RomuloGatto/microlink) | closed PR in · 2026-09-30 | Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encr… | mixed |
 
