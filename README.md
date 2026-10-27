@@ -14,7 +14,7 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-10-26T03:54:28.541Z
+generated_at: 2026-10-27T04:16:02.828Z
 working_on:
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
