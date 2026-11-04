@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: github_public_activity
-generated_at: 2026-11-03T05:52:12.443Z
+generated_at: 2026-11-04T05:28:02.955Z
 working_on:
+  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
   - securo: Open-source personal finance manager. Self-hosted, privacy-first.
   - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
-  - UptimeFlare: ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers…
   - linkedin-skills: Claude skills for LinkedIn. 12 Claude Code and Codex skills that write huma…
 
 operating_mode:
@@ -32,9 +32,9 @@ operating_mode:
 
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
+| [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened issue in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
 | [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-10-25 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | opened issue in · 2026-10-27 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
-| [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) | opened PR in · 2026-10-05 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
 | [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) | starred · 2026-10-13 | Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding Linke… | Python · agent-skill · agent-skills |
 
 ## ./systems-i-like-building
