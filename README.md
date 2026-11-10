@@ -14,11 +14,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-11-09T05:22:22.391Z
+generated_at: 2026-11-10T06:34:18.193Z
 working_on:
-  - Serverless uptime monitor on Cloudflare Workers
-  - Privacy‑first personal finance manager in Python
-  - LLM‑driven log/metrics explorer in Haskell
+  - Deploying Cloudflare Workers uptime monitor
+  - Enhancing privacy-first finance manager
+  - Building natural-language log explorer
+  - Engineering Claude skills for LinkedIn
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
