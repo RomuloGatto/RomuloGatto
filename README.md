@@ -14,11 +14,11 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 
 ```yaml
 source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-11-13T05:45:00.337Z
+generated_at: 2026-11-14T05:35:05.544Z
 working_on:
-  - UptimeFlare: serverless uptime monitor on Cloudflare Workers
-  - securo: privacy-first Python finance manager
-  - monoscope: natural-language LLM queries on logs & metrics
+  - UptimeFlare: Cloudflare Workers uptime monitor
+  - securo: privacy‑first finance manager
+  - monoscope: S3 logs & LLM queries
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
