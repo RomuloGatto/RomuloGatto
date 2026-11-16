@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: github_public_activity
-generated_at: 2026-11-15T05:32:41.390Z
+source: groq_llm_wrapup + github_public_activity
+generated_at: 2026-11-16T05:31:54.959Z
 working_on:
-  - RomuloGatto/UptimeFlare contribution: ✔ Free and serverless uptime monitoring / status page on Cloudflare Wor…
-  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
-  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
+  - UptimeFlare: serverless uptime monitor on Cloudflare Workers
+  - securo: privacy-first finance manager, 4.5k stars
+  - monoscope: ingest logs, traces, metrics into S3, query via LLM
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
