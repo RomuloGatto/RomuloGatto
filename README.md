@@ -13,12 +13,12 @@ Ship practical systems. Automate the boring parts. Keep the stack understandable
 ## ./current-focus
 
 ```yaml
-source: groq_llm_wrapup + github_public_activity
-generated_at: 2026-11-17T07:09:31.941Z
+source: github_public_activity
+generated_at: 2026-11-18T06:33:58.901Z
 working_on:
-  - UptimeFlare: serverless Cloudflare uptime checks
-  - securo: privacy‑first finance manager
-  - monoscope: LLM‑driven log/metric explorer
+  - RomuloGatto/UptimeFlare contribution: ✔ Free and serverless uptime monitoring / status page on Cloudflare Wor…
+  - securo: Open-source personal finance manager. Self-hosted, privacy-first.
+  - monoscope: Monoscope lets you ingest and explore your logs, traces and metrics. We sto…
 
 operating_mode:
   - read live signals from recent repos, pushes and pull requests
@@ -32,7 +32,7 @@ operating_mode:
 | repo | latest signal | why it shows up | stack |
 | --- | --- | --- | --- |
 | [RomuloGatto/UptimeFlare](https://github.com/RomuloGatto/UptimeFlare) | merged PR in · 2026-11-04 | ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-speci… | TypeScript |
-| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-10-25 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
+| [securo-finance/securo](https://github.com/securo-finance/securo) | issuecomment · 2026-11-17 | Open-source personal finance manager. Self-hosted, privacy-first. | Python · expense-tracker · finance-management |
 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | opened issue in · 2026-10-27 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 c… | Haskell · haskell · logs |
 
 ## ./systems-i-like-building
